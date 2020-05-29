@@ -7,3 +7,6 @@
 .DS_Store?
 .Spotlight-V100
 .Trashes
+
+# ignore podcast symlink
+podcast
